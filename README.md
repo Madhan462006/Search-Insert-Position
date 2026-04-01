@@ -5,3 +5,7 @@
 3.Write a solution to report the first name, last name, city, and state of each person in the Person table. If the address of a personId is not present in the Address table, report null instead.Return the result table in any order.
 
 4.Given an array nums of integers, return how many of them contain an even number of digits.
+
+5.Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.You may assume that each input would have exactly one solution, and you may not use the same element twice.You can return the answer in any order.
+
+ 
